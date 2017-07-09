@@ -1,1 +1,1 @@
-Functions and files related to BOW
+Files related to BOW
