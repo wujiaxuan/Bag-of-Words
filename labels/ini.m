@@ -1,0 +1,1 @@
+pre_data_path='/images/';
